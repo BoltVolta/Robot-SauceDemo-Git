@@ -3,4 +3,5 @@
 ## Sisältö
 * README.md
 * .gitignore
+*swaglabs.robot
 
